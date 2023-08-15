@@ -30,5 +30,5 @@ All actions should be executed from the source directory of the project and only
    bot = telebot.TeleBot('<token_from_BotFather>')
    ```
 
-4. Create a database and insert content into it using "db_create.py"
+4. Create a database and insert content into it using "db_create.py".
    Run the project with the main.py file
